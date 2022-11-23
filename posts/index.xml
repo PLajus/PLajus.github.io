@@ -15,10 +15,23 @@
             <pubDate>Wed, 23 Nov 2022 18:53:12 +0200</pubDate>
             
             <guid>https://PLajus.github.io/posts/bulka/</guid>
-            <description>Audi 80 – vokiškos automobilių gamyklos automobilis, gamintas nuo 1972 iki 1995 metų. Buvo gaminama viename konvejeryje su Volkswagen Passat.</description>
+            <description>Audi 80 – vokiškos automobilių gamyklos automobilis, gamintas nuo 1972 iki 1995 metų. Buvo gaminama viename konvejeryje su Volkswagen Passat.
+public int getRandomNumber() { return 5; if (y != 0) x = y; else x = 0; } </description>
             <content type="html"><![CDATA[<p>Audi 80 – vokiškos automobilių gamyklos automobilis, gamintas nuo 1972 iki 1995 metų.
 Buvo gaminama viename konvejeryje su Volkswagen Passat.</p>
-]]></content>
+
+    <img src="https://autoplius-img.dgn.lt/ann_25_248589065/audi-80-1-8-l-sedanas-1990-benzinas.jpg"  alt="Audi bulka"  class="center"  style="border-radius: 8px;"  />
+
+
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-js" data-lang="js"><span style="display:flex;"><span><span style="color:#66d9ef">public</span> <span style="color:#66d9ef">int</span> <span style="color:#a6e22e">getRandomNumber</span>() {
+</span></span><span style="display:flex;"><span>	<span style="color:#66d9ef">return</span> <span style="color:#ae81ff">5</span>;
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span> (<span style="color:#a6e22e">y</span> <span style="color:#f92672">!=</span> <span style="color:#ae81ff">0</span>)
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">x</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">y</span>;
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">else</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">x</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div>]]></content>
         </item>
         
     </channel>

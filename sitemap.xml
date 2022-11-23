@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://PLajus.github.io/tags/audi/</loc>
+    <lastmod>2022-11-23T18:53:12+02:00</lastmod>
+  </url><url>
     <loc>https://PLajus.github.io/posts/bulka/</loc>
     <lastmod>2022-11-23T18:53:12+02:00</lastmod>
   </url><url>
@@ -12,9 +15,6 @@
     <lastmod>2022-11-23T18:53:12+02:00</lastmod>
   </url><url>
     <loc>https://PLajus.github.io/tags/</loc>
-    <lastmod>2022-11-23T18:53:12+02:00</lastmod>
-  </url><url>
-    <loc>https://PLajus.github.io/tags/untagged/</loc>
     <lastmod>2022-11-23T18:53:12+02:00</lastmod>
   </url><url>
     <loc>https://PLajus.github.io/blog/</loc>
